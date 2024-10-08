@@ -6,6 +6,7 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public enum PaymentMethod {
 
+    ALMA("alma"),
     APPLE_PAY("applepay"),
     BANCONTACT("bancontact"),
     BANK_TRANSFER("banktransfer"),
