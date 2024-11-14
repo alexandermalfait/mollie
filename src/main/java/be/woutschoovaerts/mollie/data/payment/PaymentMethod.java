@@ -23,6 +23,7 @@ public enum PaymentMethod {
     KARNASLICEIT("klarnasliceit"),
     MY_BANK("mybank"),
     PAYPAL("paypal"),
+    PAY_BY_BANK("paybybank"),
     PAY_SAFE_CARD("paysafecard"),
     PRZELEWY24("przelewy24"),
     SOFORT("sofort"),
